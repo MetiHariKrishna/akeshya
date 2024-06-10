@@ -1,0 +1,105 @@
+.aboutText {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  justify-content: center;
+  align-items: center;
+}
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.aboutTypo {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: relative;
+  color: #222222;
+}
+.aboutLine {
+  font-size: 50px;
+  width: 120;
+  color: #14279b;
+}
+.services {
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+}
+.servicesText {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #444444;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  padding-right: 85px;
+}
+.cards {
+  display: flex;
+  width: 100%;
+  padding-left: 85px;
+  padding-right: 85px;
+}
+.cardBg {
+  background-color: #f6f6f6;
+  border: none;
+}
+.featureCard {
+  display: flex;
+  padding-top: 12px;
+}
+.title {
+  font-size: 18px;
+  color: #111;
+  font-weight: 700;
+  padding-left: 15px;
+}
+.WebAssetOutlinedIcon {
+  font-size: 32px;
+  color: #ffbb2c;
+}
+.TerminalOutlinedIcon {
+  font-size: 32px;
+  color: #5578ff;
+}
+.BoyOutlinedIcon {
+  font-size: 32px;
+  color: #e80368;
+}
+.PlayCircleOutlinedIcon {
+  font-size: 32px;
+  color: #e361ff;
+}
+.SearchOutlinedIcon {
+  font-size: 32px;
+  color: #47aeff;
+}
+.EventNoteOutlinedIcon {
+  font-size: 32px;
+  color: #ffa76e;
+}
+.FmdGoodOutlinedIcon {
+  font-size: 32px;
+  color: #dbce11;
+}
+.LeaderboardOutlinedIcon {
+  font-size: 32px;
+  color: #4233ff;
+}
+.ContactPageOutlinedIcon {
+  font-size: 32px;
+  color: #b2904f;
+}
+.LyricsOutlinedIcon {
+  font-size: 32px;
+  color: #b20969;
+}
+.FeedOutlinedIcon {
+  font-size: 32px;
+  color: #ff5828;
+}
+.PlayLessonOutlinedIcon {
+  font-size: 32px;
+  color: #29cc61;
+}

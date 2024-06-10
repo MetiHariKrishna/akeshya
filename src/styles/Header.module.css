@@ -1,0 +1,29 @@
+.headerText {
+  font-size: 30px;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+.headerLink {
+  color: #555555;
+  margin-right: 40px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+}
+.headerLink:hover {
+  color: #14279b;
+  margin-right: 40px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+}
+.contact {
+  background-color: #14279b;
+  padding: 8px 25px;
+  margin-left: 10px;
+  border-radius: 50px;
+  color: #fff;
+  margin-right: 80px;
+  text-transform: initial;
+}

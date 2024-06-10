@@ -1,0 +1,12 @@
+.FooterText {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.FooterContainer {
+  background-color: #fff;
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+  padding-top: 35px;
+  padding-bottom: 40px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
