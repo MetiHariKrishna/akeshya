@@ -1,0 +1,44 @@
+.title {
+  font-size: 18px;
+  color: #111;
+  font-weight: 700;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.description {
+  color: #444444;
+  font-size: 15px;
+  line-height: 28px;
+}
+
+.card {
+  padding: 0px 20px 20px 20px;
+}
+.cardBg {
+  border-radius: 15px;
+}
+.cardBg:hover {
+  background-color: #14279b;
+}
+
+.cardBg:hover .title {
+  font-size: 18px;
+  color: #fff;
+  font-weight: 700;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.cardBg:hover .description {
+  color: #fff;
+  font-size: 15px;
+  line-height: 28px;
+}
+
+.icons {
+  font-size: 80px !important;
+  color: #14279b;
+}
+.cardBg:hover .icons {
+  color: #fff;
+}

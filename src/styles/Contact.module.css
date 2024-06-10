@@ -1,0 +1,89 @@
+.aboutText {
+  padding-top: 60px;
+  padding-bottom: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutTypo {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: relative;
+  color: #222222;
+}
+
+.aboutLine {
+  font-size: 50px;
+  width: 120px;
+  color: #14279b;
+}
+
+.contactText {
+  font-size: 28px;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #14279b;
+  padding-bottom: 20px;
+}
+
+.contactDescription {
+  font-size: 14px;
+  line-height: 24px;
+  color: #888;
+}
+
+.FmdGoodOutlinedIcon {
+  font-size: 32px;
+  line-height: 1;
+  color: #14279b;
+  margin-right: 20px;
+}
+
+.address {
+  font-size: 14px;
+  color: #444444;
+  padding-top: 5px;
+}
+
+.content {
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.contactContainer {
+  padding-left: 80px;
+  padding-right: 80px;
+  animation: slideUp 1s ease-out;
+}
+
+.sendBtn {
+  background-color: #14279b;
+  padding: 10px 24px;
+  color: #fff;
+  border-radius: 50px;
+}
+
+.formContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
